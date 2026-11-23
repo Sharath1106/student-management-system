@@ -1,0 +1,21 @@
+#Virtual environment
+.venv/
+venv
+
+#Python cache
+_pycache_/
+*.pyc 
+
+# Environment  secrets
+.env 
+.env.*
+
+# IDE files
+.vscocde/
+.idea/
+
+# Log files
+*.log 
+
+# Database backups
+.sql
